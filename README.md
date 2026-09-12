@@ -6,7 +6,7 @@ Aviutl ExEdit2専用のパーティクルスクリプトです。
 
 ## 動作環境 
 
-- **AviUtl ExEdit2 v2.1.8以降**
+- **AviUtl ExEdit2 v2.1.9以降**
 ---
 
 ## 導入方法
