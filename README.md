@@ -11,7 +11,7 @@ Aviutl ExEdit2専用のパーティクルスクリプトです。
 
 ## 導入方法
 
-1. リポジトリ内の `GParticle.obj2`をダウンロードします。
+1. Github Releaseから `GParticle.obj2`をダウンロードします。
 2. `GParticle.obj2`を、Aviutl2のプレビュー画面へドラッグ＆ドロップします。
 3. オブジェクトの「カスタムオブジェクト」から **`GParticle`** を選択してください。
 
